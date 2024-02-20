@@ -1,0 +1,19 @@
+{
+  "name": "backeend-development",
+  "version": "1.0.0",
+  "description": "a basic backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "ankityadav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  }
+}
